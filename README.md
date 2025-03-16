@@ -4,3 +4,7 @@ Buy your own wall clock (not sponsored): https://www.amazon.com/dp/B0B9G3X781
 
 # Installation
 Download
+
+# IMPORTANT - DEPRECATION NOTICE
+As of March 16th, 2025, this repository is deprecated. All development has been halted and support will no longer be supplied.
+If you care about this product still, you're welcome to fork it and continue development at your own expense.
